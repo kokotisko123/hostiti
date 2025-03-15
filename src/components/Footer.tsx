@@ -77,9 +77,14 @@ const Footer = () => {
 
             {/* Social Links */}
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-orange-primary transition-colors">
-                <Facebook className="w-6 h-6" />
-              </a>
+             <a 
+    href="https://www.facebook.com/share/1AEf3QLRfd/?mibextid=wwXIfr" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    className="text-gray-400 hover:text-orange-primary transition-colors"
+  >
+    <Facebook className="w-6 h-6" />
+  </a>
               <a href="#" className="text-gray-400 hover:text-orange-primary transition-colors">
                 <Instagram className="w-6 h-6" />
               </a>
@@ -100,7 +105,7 @@ const Footer = () => {
               © {new Date().getFullYear()} AutoMaňo. Všetky práva vyhradené.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
-              <a href="#" className="text-gray-400 hover:text-orange-primary text-sm transition-colors">
+              <a href="" className="text-gray-400 hover:text-orange-primary text-sm transition-colors">
                 Ochrana súkromia
               </a>
               <a href="#" className="text-gray-400 hover:text-orange-primary text-sm transition-colors">

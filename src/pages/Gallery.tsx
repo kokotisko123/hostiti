@@ -4,10 +4,10 @@ import { motion } from 'framer-motion';
 const galleryItems = [
   {
     id: 1,
-    title: 'RSQ3 - AUDI A3 - Oprava kapoty po krupobití',
-    before: 'https://i.ibb.co/ynT1gYSw/photo-2025-03-08-23-46-35.jpg',
-    after: 'https://i.ibb.co/B5rFN1L7/audi.jpg',
-    description: 'Odstránenie viacerých preliačin po krupobití na kapote vozidla'
+    title: 'Oprava zadného bočného panelu',
+    before: 'https://i.ibb.co/bgw46DcD/photo-2025-03-15-19-56-11.jpg',
+    after: 'https://i.ibb.co/8493yxv2/photo-2025-03-15-20-02-21.jpg',
+    description: 'Odstránenie preliačiny na zadnom paneli'
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ const galleryItems = [
   },
   {
     id: 5,
-    title: 'Oprava viacero preliačín na streche auta',
+    title: 'Skoda Octavia - Oprava strechy po krupobití',
     before: 'https://i.ibb.co/RTW2JZMz/pred.jpg',
     after: 'https://i.ibb.co/jZ6NJQ3v/po.jpg',
     description: 'Odstránenie viacero preliačín na streche'

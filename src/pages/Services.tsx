@@ -34,8 +34,8 @@ const Services = () => {
     },
     {
       icon: Car,
-      title: 'Mobilný servis',
-      description: 'Prídeme za vami a opravíme vaše auto priamo na mieste.',
+      title: 'Servis vozidiel',
+      description: 'Opravíme vaše auto rýchlo a spoľahlivo v našej dielni.',
       features: [
         'Oprava u nás v dielni',
         'Flexibilný časový harmonogram',
